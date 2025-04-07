@@ -32,7 +32,5 @@ Entre na pasta:
 ```bash
 cd carteira_acoes_api_frontend
 ```
-## Execução
-
 Execute o arquivo index.html no seu browser.
 Nota: Para funcionamento completo, não deixe de baixar, instalar e executar o back-end disponível em https://github.com/cclguedes/Carteira_Acoes_API_Backend
