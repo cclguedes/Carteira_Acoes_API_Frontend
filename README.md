@@ -24,12 +24,14 @@ https://github.com/cclguedes/Carteira_Acoes_API_Backend
 
 ## Instalação
 
-# Clone o repositório
+Clone o repositório
+```bash
 git clone https://github.com/seu-usuario/carteira-acoes-frontend.git
-
-# Entre na pasta
+```
+Entre na pasta
+```bash
 cd carteira_acoes_api_frontend
-
+```
 ## Execução
 
 Para executá-lo, basta fazer o download do projeto e abrir o arquivo index.html no seu browser após iniciar o backend (instruções no repositório próprio).
