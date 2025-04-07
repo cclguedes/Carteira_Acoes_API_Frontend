@@ -18,13 +18,12 @@ https://github.com/cclguedes/Carteira_Acoes_API_Backend
 
 ## Tecnologias utilizadas
 
-- [HTML]
-- [CSS]
-- [JavaScript]
+- HTML
+- CSS
+- JavaScript
 
 ## Instalação
 
-```bash
 # Clone o repositório
 git clone https://github.com/seu-usuario/carteira-acoes-frontend.git
 
