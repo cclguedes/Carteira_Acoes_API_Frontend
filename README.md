@@ -34,3 +34,7 @@ cd carteira_acoes_api_frontend
 ```
 Execute o arquivo index.html no seu browser.
 Nota: Para funcionamento completo, não deixe de baixar, instalar e executar o back-end disponível em https://github.com/cclguedes/Carteira_Acoes_API_Backend
+
+## Sobre o autor
+
+Sou Caio Guedes, engenheiro eletricista e especialista em gestão de projetos, trabalhando atualmente como Product Owner de projetos de tecnologia na indústria audiovisual. No momento, busco conhecimento mais profundo em arquitetura de softwares e desenvolvimento de sistemas para o aprimoramento das minhas atividades na gestão de projetos ágeis.
