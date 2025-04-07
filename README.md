@@ -34,4 +34,5 @@ cd carteira_acoes_api_frontend
 ```
 ## Execução
 
-Para executá-lo, basta fazer o download do projeto e abrir o arquivo index.html no seu browser após iniciar o backend (instruções no repositório próprio).
+Execute o arquivo index.html no seu browser.
+Nota: Para funcionamento completo, não deixe de baixar, instalar e executar o back-end disponível em https://github.com/cclguedes/Carteira_Acoes_API_Backend
