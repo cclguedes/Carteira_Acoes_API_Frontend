@@ -2,7 +2,7 @@
 
 Este projeto faz parte da minha avaliação na Pós-Graduação em Engenharia de Software da PUC-Rio. Trata-se de uma interface web para visualização e gerenciamento de uma carteira de ações.
 
-Esteste front-end consome dados da API abaixo:
+Este front-end foi construído para se integrar com o backend abaixo:
 https://github.com/cclguedes/Carteira_Acoes_API_Backend
 
 ## Funcionalidades
@@ -22,13 +22,13 @@ https://github.com/cclguedes/Carteira_Acoes_API_Backend
 - CSS
 - JavaScript
 
-## Instalação
+## Instalação e execução
 
-Clone o repositório
+Clone o repositório:
 ```bash
 git clone https://github.com/seu-usuario/carteira-acoes-frontend.git
 ```
-Entre na pasta
+Entre na pasta:
 ```bash
 cd carteira_acoes_api_frontend
 ```
