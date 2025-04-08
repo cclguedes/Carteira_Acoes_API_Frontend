@@ -60,7 +60,7 @@ const insertCard = (ticker, qtd, valor, valorAtual, valorTotal, valorizacao) => 
     <button class="remove-btn" onclick="deleteItem('${ticker}')">&times;</button>
     <h2>${ticker}</h2>
     <p><strong>Quantidade:</strong> ${qtd}</p>
-    <p><strong>Valor Compra:</strong> R$ ${valor.toFixed(2)}</p>
+    <p><strong>Preço Médio:</strong> R$ ${valor.toFixed(2)}</p>
     <p><strong>Valor Atual:</strong> R$ ${valorAtual.toFixed(2)}</p>
     <p><strong>Total Investido:</strong> R$ ${valorTotal.toFixed(2)}</p>
     <p><strong>Valorização:</strong> <span class="${valorizacaoClass}">${valorizacao.toFixed(2)}%</span></p>
