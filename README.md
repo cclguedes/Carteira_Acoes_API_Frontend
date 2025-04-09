@@ -2,8 +2,7 @@
 
 Este projeto faz parte da minha avaliação na Pós-Graduação em Engenharia de Software da PUC-Rio. Trata-se de uma interface web para visualização e gerenciamento de uma carteira de ações.
 
-Este front-end foi construído para se integrar com o backend abaixo:
-https://github.com/cclguedes/Carteira_Acoes_API_Backend
+Este front-end foi construído para se integrar com o seguinte backend: https://github.com/cclguedes/Carteira_Acoes_API_Backend
 
 ## Funcionalidades
 
