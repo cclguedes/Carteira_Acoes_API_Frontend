@@ -38,3 +38,4 @@ Nota: Para funcionamento completo, não deixe de baixar, instalar e executar o b
 ## Sobre o autor
 
 Sou Caio Guedes, engenheiro eletricista e especialista em gestão de projetos, trabalhando atualmente como Product Owner de projetos de tecnologia na indústria audiovisual.
+https://www.linkedin.com/in/cclguedes/
